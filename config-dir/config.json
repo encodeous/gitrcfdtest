@@ -2,5 +2,6 @@
     "property": "123423",
     "list": [
         "abc", "bcd", "abcd"
-    ]
+    ],
+    "print": "Hello, World!"
 }
